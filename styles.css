@@ -56,7 +56,7 @@
 
   .word, svg {
     color: white;
-    font-size: clamp(2rem, 8vw, 10rem);
+    font-size: clamp(2rem, 6vw, 8rem);
     font-family: "Rubik", sans-serif;
     margin: 0rem;
     text-transform: uppercase;
