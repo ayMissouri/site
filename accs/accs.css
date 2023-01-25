@@ -18,8 +18,8 @@ body {
 
 .container {
   margin: 0 auto;
-  padding: 3rem;
-  width: 75rem;
+  padding: 1rem;
+  width: 50rem;
 }
 
 .accordion .accordion-item {
