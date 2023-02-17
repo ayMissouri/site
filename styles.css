@@ -58,7 +58,7 @@ body {
 svg {
   color: white;
   font-size: clamp(2rem, 6vw, 8rem);
-  font-family: "Rubik", sans-serif;
+  font-family: Hack, monospace;
   margin: 0rem;
   text-transform: uppercase;
   transition: opacity 250ms ease;
@@ -67,7 +67,7 @@ svg {
 .word2 {
   color: white;
   font-size: clamp(1rem, 4vw, 5rem);
-  font-family: "Rubik", sans-serif;
+  font-family: Hack, monospace;
   margin: 0rem;
   position: fixed;
   text-transform: uppercase;
@@ -199,4 +199,35 @@ body:hover > #trailer {
 
 * {
   cursor: none;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  --x: calc(var(--posX, 0) * 1px);
+  --y: calc(var(--posY, 0) * 1px);
+  background-image: linear-gradient(115deg, rgb(211 255 215), rgb(0 0 0)),
+    radial-gradient(
+      90% 100% at calc(50% + var(--x)) calc(0% + var(--y)),
+      rgb(200 200 200),
+      rgb(022 000 045)
+    ),
+    radial-gradient(
+      100% 100% at calc(80% - var(--x)) calc(0% - var(--y)),
+      rgb(250 255 000),
+      rgb(036 000 000)
+    ),
+    radial-gradient(
+      150% 210% at calc(100% + var(--x)) calc(0% + var(--y)),
+      rgb(020 175 125),
+      rgb(000 010 255)
+    ),
+    radial-gradient(
+      100% 100% at calc(100% - var(--x)) calc(30% - var(--y)),
+      rgb(255 077 000),
+      rgb(000 200 255)
+    ),
+    linear-gradient(60deg, rgb(251, 0, 255), rgb(255, 255, 86));
+  background-blend-mode: overlay, overlay, difference, difference, difference,
+    normal;
 }
