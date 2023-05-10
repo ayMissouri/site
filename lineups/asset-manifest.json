@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcbad16c.css",
+    "main.js": "/static/js/main.c24c2ef6.js",
+    "static/js/27.703ddf2d.chunk.js": "/static/js/27.703ddf2d.chunk.js",
+    "static/media/breeze_map.png": "/static/media/breeze_map.de40a2e3fc2b1ae6c395.png",
+    "static/media/icebox_map.png": "/static/media/icebox_map.9856ebf56b2054cd980e.png",
+    "static/media/fracture_map.png": "/static/media/fracture_map.0c50261e74aea28ccb12.png",
+    "static/media/bind_map.png": "/static/media/bind_map.4cf43b64773eb21bef09.png",
+    "static/media/split_map.png": "/static/media/split_map.4fea4ba553503e3dd984.png",
+    "static/media/haven_map.png": "/static/media/haven_map.cbbb28815972518901b6.png",
+    "static/media/pearl_map.png": "/static/media/pearl_map.ab1596c4cf0bd57d8a0d.png",
+    "static/media/ascent_map.png": "/static/media/ascent_map.5d54f9e85c497d9850a4.png",
+    "static/media/lotus_map.png": "/static/media/lotus_map.586f3536721086e190d6.png",
+    "static/media/Slow_Orb.png": "/static/media/Slow_Orb.ede100b4a0804eb09e7e.png",
+    "static/media/FRAG-ment.png": "/static/media/FRAG-ment.51e5c7582d2f23c6e602.png",
+    "static/media/Haunt.png": "/static/media/Haunt.76a058feec60cb4a64dc.png",
+    "static/media/Recon_Bolt.png": "/static/media/Recon_Bolt.72ba2a4bc6347b0c90a7.png",
+    "static/media/start-icon.png": "/static/media/start-icon.a7c1e7f95f3055f3fcb4.png",
+    "static/media/Snake_Bite.png": "/static/media/Snake_Bite.78e75ab868d89759039a.png",
+    "static/media/Shock_Bolt.png": "/static/media/Shock_Bolt.590dbc8f2f8c1442f06c.png",
+    "static/media/x-icon.png": "/static/media/x-icon.9ec5fa527883404eb664.png",
+    "static/media/Incendiary.png": "/static/media/Incendiary.1d98edae21f988e0e136.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.dcbad16c.css",
+    "static/js/main.c24c2ef6.js"
+  ]
+}
